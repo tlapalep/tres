@@ -1,7 +1,7 @@
 ## pagina3
 
 Sie können den [GitHub Editor](https://github.com/tlapalep/tres/edit/master/index.md) verwenden zur Pflege und Vorschau des Inhalts Ihrer Website in Markdown-Dateien.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wenn Sie sich für dieses Repository festlegen, führt GitHub Pages [Jekyll](https://jekyllrb.com/)  aus, um die Seiten Ihrer Website anhand des Inhalts Ihrer Markdown-Dateien neu zu erstellen.
 
 ### Markdown
 
